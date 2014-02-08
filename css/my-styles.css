@@ -25,13 +25,21 @@ body {
 }
 
 
+
+.navbar-default {
+  background-color: #F5DEB3;
+  border-color: rgba(30, 27, 31, 0.9);
+}
+
+
+
 /* Typography
 ================================= */
 
 
 .navbar-text {
 	margin-top: 15px;
-	font-weight: bold;
+	
 	margin-right: 0;
 	font-size: 2em;
 	
@@ -52,8 +60,8 @@ body {
 ================================= */
 
 .main-logo {
-	width: 225px;
-	height: 70px;
+	width: 200px;
+	height: 65px;
 	margin-top: 15px;
 	margin-left: 10px;
 	text-indent: 100%;
@@ -100,4 +108,21 @@ ol.upper-roman {
 	list-style-type:upper-roman;
 	margin-left: 5px;
 	}
+
+.service {
+	width: 500px;
+	height: 700px;
+   background: url('/images/housing.jpg') no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
 
