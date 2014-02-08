@@ -2,7 +2,6 @@
 * {
 	margin: 0;
 	padding: 0;
-	
 
   }
 
@@ -38,8 +37,7 @@ body {
 
 
 .navbar-text {
-	margin-top: 15px;
-	
+	margin-top: 15px;	
 	margin-right: 0;
 	font-size: 2em;
 	
@@ -109,10 +107,12 @@ ol.upper-roman {
 	margin-left: 5px;
 	}
 
-.service {
+.background {
 	width: 500px;
 	height: 700px;
-   background: url('/images/housing.jpg') no-repeat;
+   background: url('/images/small-medium.jpg') no-repeat;
+   opacity:0.4;
+   filter:alpha(opacity=40); /* For IE8 and earlier */
 }
 
 
