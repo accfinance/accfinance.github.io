@@ -116,7 +116,11 @@ ol.upper-roman {
 }
 
 
-
+.photos img{
+   padding: 10px;
+   border: 1px solid #ccc;
+    background: #fff;
+}
 
 
 
